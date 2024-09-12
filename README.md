@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a personal endeavor to design and build a **high-fidelity discrete audio amplifier**. Inspired by the principles taught in advanced electronic design courses, this amplifier showcases the application of **analog electronics** in creating high-quality audio reproduction systems. The project aims to achieve excellent audio performance while providing an opportunity for hands-on learning and experimentation with **discrete component designs**.
+This project is a personal endeavor to design and build a **high-fidelity discrete audio amplifier**. Inspired by the principles taught in electronic design courses, this amplifier showcases the application of **analog electronics** in creating high-quality audio reproduction systems. The project aims to achieve excellent audio performance while providing an opportunity for hands-on learning and experimentation with **discrete component designs**.
 
 ## Features
 
