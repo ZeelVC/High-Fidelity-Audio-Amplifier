@@ -26,6 +26,7 @@ This project is a personal endeavor to design and build a **high-fidelity discre
 - **Global negative feedback** for predictable gain
 - **Volume control** via potentiometer
 - **AC coupling** for improved DC biasing
+  
 ![Circuit Diagram](Preamplifier_Circuit_diagram.png)
 
 ### Equalizer
